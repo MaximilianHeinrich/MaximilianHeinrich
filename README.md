@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maximilian Heinrich</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Maximilian Heinrich</h1>
 <h3 align="center">A self-tought backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximilianheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="maximilianheinrich" /> </p>
@@ -19,10 +19,16 @@
 
 - ⚡ Fun fact **I hate Python**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shept1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shept1337" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maxhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxhei" height="30" width="40" /></a>
+<a href="https://medium.com/@maxhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maxhei" height="30" width="40" /></a>
+<a href="https://discord.com/users/692373101278789672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/692373101278789672" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
