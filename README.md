@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/shept1337" target="blank"><img src="https://img.shields.io/twitter/follow/shept1337?logo=twitter&style=for-the-badge" alt="shept1337" /></a> </p>
 
-- 🔭 I’m currently working on [mittagessen.digital](mittagessen.digital)
+- 🔭 I’m currently working on [mittagessen.digital](https://mittagessen.digital)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [maximilian.is-a.dev](maximilian.is-a.dev)
+- 👨‍💻 All of my projects are available at [maximilian.is-a.dev](https://maximilian.is-a.dev)
 
 - 📫 How to reach me **email@maximilian.is-a.dev**
 
-- 📄 Know about my experiences [maximilian.is-a.dev/resume](maximilian.is-a.dev/resume)
+- 📄 Know about my experiences [maximilian.is-a.dev/resume](https://maximilian.is-a.dev/resume)
 
 - ⚡ Fun fact **I hate Python**
 
