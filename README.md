@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on studentcard<br>🌱 I’m currently learning C<br>👨‍💻 All of my projects are available at [maximilian.is-a.dev/projects](https://maximilian.is-a.dev/projects)<br>📫 How to reach me email@maximilian.is-a.dev<br>📄 Know about my experiences [maximilian.is-a.dev/experience](https://maximilian.is-a.dev/experience)<br>⚡ Fun fact I hate Python<br>
+🔭 I’m currently working on Qryptic<br>🌱 I’m currently learning C<br>👨‍💻 All of my projects are available at [maximilian.is-a.dev/projects](https://maximilian.is-a.dev/projects)<br>📫 How to reach me email@maximilian.is-a.dev<br>📄 Know about my experiences [maximilian.is-a.dev/experience](https://maximilian.is-a.dev/experience)<br>⚡ Fun fact I hate Python<br>
 
 
 ## 🌐 Socials:
